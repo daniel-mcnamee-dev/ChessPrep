@@ -22,7 +22,7 @@ The project was designed to demonstrate:
 * replay engine design
 * desktop application development using WPF
 
-![Opening Browser](Screenshots/01.OpeningBrowser.png)
+![Opening Browser](Screenshots/10.BoardLocalPlay.png)
 
 ---
 
